@@ -52,7 +52,7 @@ function ScreenB2() {
   return (
     <View style={styles.screenB}>
       <Text style={styles.text}>Pantalla B2</Text>
-      <Image source={{ uri: 'https://i.ytimg.com/vi/mmlVY1VFeEs/maxresdefault.jpg' }} style={styles.image} />
+      <Image source={{ uri: 'https://i.ytimg.com/vi/oml1-kxxPGM/hqdefault.jpg' }} style={styles.image} />
     </View>
   );
 }
